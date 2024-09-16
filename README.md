@@ -1,2 +1,2 @@
 # darwin.nix
-> WIP
+A nix configuration for @socheatsok78's Darwin based OS (macOS)
